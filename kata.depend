@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570509972 source:d:\kata\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1572359428 source:e:\game programing\kata2\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
